@@ -1,0 +1,23 @@
+{
+  "name": "alphorism-api",
+  "version": "1.0.0",
+  "description": "API study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baltazarparra/alphorism-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baltazarparra/alphorism-api/issues"
+  },
+  "homepage": "https://github.com/baltazarparra/alphorism-api#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
