@@ -4,7 +4,7 @@
   "description": "API study",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/baltazarparra/alphorism-api#readme",
   "devDependencies": {
     "eslint": "^7.30.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.9"
   }
 }
