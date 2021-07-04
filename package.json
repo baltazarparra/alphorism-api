@@ -21,6 +21,8 @@
     "eslint": "^7.30.0"
   },
   "dependencies": {
+    "apollo-server": "^2.25.2",
+    "mongoose": "^5.13.2",
     "nodemon": "^2.0.9"
   }
 }
