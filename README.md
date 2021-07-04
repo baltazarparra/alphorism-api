@@ -1,2 +1,3 @@
-# alphorism-api
-API study
+# Aphorism-api
+
+GraphQL API study
